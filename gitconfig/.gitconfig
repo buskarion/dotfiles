@@ -1,0 +1,13 @@
+[user]
+	email = buskarion@gmail.com
+	name = Andris Buscariolli
+[core]
+	hooksPath = /Users/abuscariolli/.config/git/hooks/
+	symlinks = false
+	editor = nvim
+[push]
+	followTags = true
+[alias]
+	s = !git status -s
+	c = !git add --all && meteor
+	l = !git log --oneline
