@@ -1,3 +1,2 @@
 # dotfiles
-# dotfiles
-# dotfiles
+My dotfiles settings
